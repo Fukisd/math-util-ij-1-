@@ -19,7 +19,7 @@ class MathUtilityDDTTest {
                 {(Object)3, (Object) 6},
                 {(Object)4, (Object) 24},
                 {(Object)5, (Object) 120},
-                {(Object)6, (Object) 720}
+                {(Object)6, (Object) 7200}
         };
     }
 
